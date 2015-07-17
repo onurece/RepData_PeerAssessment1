@@ -1,6 +1,9 @@
 Peer Assignment 1 
 =============================
 
+```r
+setwd("C:/Users/ece.o/OneDrive/Coursera/Johns Hopkins University Data Science/Reproducible Research/RepData_PeerAssessment1")
+```
 
 ## Loading and preprocessing the data
 
